@@ -1,0 +1,40 @@
+
+
+#title {
+  background-color: #182634;
+  color: white;
+  padding: 16px;
+  text-align: center;
+  font-size:55px;
+  font-weight: bold;
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.2);
+ 
+}
+#entries{
+  color:rgb(136, 192, 206);
+  text-decoration-line: none;
+  font-size:33px;
+  font-family: 'Times New Roman', Times, serif;
+}
+#entries:hover{
+  color:rgb(4, 107, 133);
+}
+#logout{
+  color:rgb(255, 253, 253);
+  text-decoration-line: none;
+    font-family: 'Times New Roman', Times, serif;
+  font-size:22px;
+  background-color: transparent;
+}
+#logout:hover{
+  color:rgb(4, 107, 133);
+}
+#dashboard{
+  color:rgb(136, 192, 206);
+  text-decoration-line: none;
+    font-family: 'Times New Roman', Times, serif;
+  font-size:33px;
+}
+#dashboard:hover{
+  color:rgb(4, 107, 133);
+}
